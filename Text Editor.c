@@ -16,7 +16,6 @@
 
 #define TextEditor "1.0.0"
 #define TEDIT_TAB 8
-
 #define CTRL_KEY(k) ((k) & 0x1f)
 
 enum editorKey
